@@ -1,4 +1,4 @@
-package sec03_Method;
+package sec03_Method.exam01;
 
 public class Calculator {
 
@@ -14,7 +14,7 @@ public class Calculator {
         return x + y;
     }
 
-    double divide(int x, int y){
+    double divide(int  x, int y){
         double result = (double) x / (double) y;
         return result;
     }

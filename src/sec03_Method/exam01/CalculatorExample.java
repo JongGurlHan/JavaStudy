@@ -1,4 +1,6 @@
-package sec03_Method;
+package sec03_Method.exam01;
+
+import sec03_Method.exam01.Calculator;
 
 public class CalculatorExample {
     public static void main(String[] args) {
