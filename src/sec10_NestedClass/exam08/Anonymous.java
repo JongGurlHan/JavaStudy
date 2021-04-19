@@ -1,4 +1,4 @@
-package sec10_NestedClass.exma08;
+package sec10_NestedClass.exam08;
 
 public class Anonymous {
     // 1. 필드에 익명객체 대입

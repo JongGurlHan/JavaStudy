@@ -1,4 +1,4 @@
-package sec10_NestedClass.exma08;
+package sec10_NestedClass.exam08;
 
 public interface RemoteControl {
     public void turnOn();

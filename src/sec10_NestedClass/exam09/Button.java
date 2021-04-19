@@ -7,9 +7,9 @@ public class Button {
         void onClick();
     }
 
-    OnclickListener listener;
+    private OnclickListener listener;
 
-    void setOnclickListener(OnclickListener listener){
+    public  void setOnclickListener(OnclickListener listener){
         this.listener = listener;
     }
 
