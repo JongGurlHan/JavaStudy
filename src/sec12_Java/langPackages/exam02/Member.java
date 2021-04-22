@@ -1,4 +1,4 @@
-package sec12_Java.langPackages.exam01;
+package sec12_Java.langPackages.exam02;
 
 import java.util.Objects;
 
@@ -25,6 +25,12 @@ public class Member {
             }
         }
         return false;
+    }
+
+    @Override
+    public int hashCode() {
+        //String은 문자열이 같으면 동일한 해시코드가 나오도록 hashCode()가 재정의돼있다.
+        return id.hashCode();
     }
 }
 //https://blog.naver.com/travelmaps/220931531769
