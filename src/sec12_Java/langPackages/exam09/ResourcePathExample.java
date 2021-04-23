@@ -1,4 +1,4 @@
-package sec12_Java.langPackages.exma09;
+package sec12_Java.langPackages.exam09;
 
 public class ResourcePathExample {
     public static void main(String[] args) {
